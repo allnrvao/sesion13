@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\registro\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|solutionrelative:registro\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\burbuja\\operaciones\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\operaciones\\burbuja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C83DF9F3-41D6-4944-B45C-0213ABD59FD5}|Burbuja\\Burbuja.csproj|solutionrelative:burbuja\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|c:\\users\\jpnic\\onedrive\\desktop\\sesion13\\sesion13\\registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D85CFD27-9F81-4AF3-BB29-6B78C3B286DF}|Registro\\Registro.csproj|solutionrelative:registro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Form1.cs",
-              "RelativeDocumentMoniker": "Burbuja\\Form1.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Form1.cs",
-              "RelativeToolTip": "Burbuja\\Form1.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeToolTip": "Registro\\Form1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:31:35.678Z",
+              "WhenOpened": "2024-09-30T14:29:27.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Burbuja.cs",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Operaciones\\Burbuja.cs",
-              "RelativeDocumentMoniker": "Burbuja\\Operaciones\\Burbuja.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Operaciones\\Burbuja.cs",
-              "RelativeToolTip": "Burbuja\\Operaciones\\Burbuja.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Registro\\Model\\Person.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Model\\Person.cs",
+              "RelativeToolTip": "Registro\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:16:36.053Z",
+              "WhenOpened": "2024-09-30T14:20:40.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Form1.cs",
-              "RelativeDocumentMoniker": "Burbuja\\Form1.cs",
-              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Burbuja\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Burbuja\\Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Form1.cs",
+              "RelativeDocumentMoniker": "Registro\\Form1.cs",
+              "ToolTip": "C:\\Users\\jpnic\\OneDrive\\Desktop\\sesion13\\Sesion13\\Registro\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registro\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T13:14:47.493Z",
+              "WhenOpened": "2024-09-30T14:19:30.865Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
